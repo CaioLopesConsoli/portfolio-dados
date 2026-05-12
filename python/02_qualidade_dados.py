@@ -1,3 +1,4 @@
+# Pipeline de qualidade e validação de dados de clientes
 clientes_raw = [
     {'id': 1, 'nome': '  joão silva ', 'email': 'joao@gmail.com', 'cpf': '123.456.789-01', 'idade': 28},
     {'id': 2, 'nome': 'MARIA SOUZA', 'email': 'maria.hotmail.com', 'cpf': '98765432100', 'idade': -5},
