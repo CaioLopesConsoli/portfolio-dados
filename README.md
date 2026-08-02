@@ -22,5 +22,10 @@ Consultas SQL para análise de dados em banco de e-commerce real.
 - **02_performance_produtos.sql** — Performance e faturamento de produtos
 - **03_analise_temporal_pedidos.sql** — Análise temporal de pedidos
 
+### 📁 telecom
+Análise de churn (cancelamento) de clientes em telecomunicações.
+
+- [telecom-churn-analysis](https://github.com/CaioLopesConsoli/telecom-churn-analysis) — Pipeline de análise de churn em Python e Pandas para identificar padrões de cancelamento em clientes de telecomunicações.
+
 ## Sobre
 Estudante de Big Data & Analytics aplicando conceitos de engenharia de dados em projetos práticos com contexto real de negócio.
